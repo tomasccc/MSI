@@ -5,7 +5,7 @@ Los riesgos del proyecto tienen su origen en la incertidumbre que está presente
 - **Riesgos conocidos**: Aquellos que se identifican y analizan durante la planificación, permitiendo desarrollar respuestas específicas.
 - A los riesgos conocidos que no se pueden gestionar de manera proactiva se les debe asignar una reserva para contingencias.
 
-- **Riesgos desconocidos**: Eventos imprevistos que no se identificaron previamente, manejados mediante reservas de contingencia o respuestas reactivas.
+- **Riesgos desconocidos**: Eventos imprevistos que no se identificaron previamente, manejados mediante reservas de gestión o respuestas reactivas.
 - Los riesgos **desconocidos** no se pueden gestionar de manera proactiva y por lo tanto se les puede asignar una reserva de gestión. 
 
 - **Riesgos individuales**: Afectan actividades específicas del proyecto.
